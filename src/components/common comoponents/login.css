@@ -1,0 +1,61 @@
+.cl0fcb02{
+    color:#0fcb02;
+}
+.bg0fcb02{
+    background-color: #0fcb02;
+}
+.bglinear{
+    background: linear-gradient(90deg, #0fcb02 0%, #56638b 100%);
+}
+.fa-pop{
+    font-family: poppins;
+}
+
+.fa-nun{
+    font-family: Nunito;
+}
+.fas-sm{
+    font-size: 14px;
+}
+.brd0fcb02{
+    border-color: #0fcb02 ;
+}
+.brd0fcb02:focus{
+    box-shadow:0 0 0 1px #0fcb02 !important;
+}
+.brd94D7D3{
+    border-color:#94D7D3 ;
+}
+.brd94D7D3:focus{
+    box-shadow: 0 0 0 1px #0fcb02;
+}
+.cur-pointer{
+    cursor: pointer;
+}
+.undLine{
+    text-decoration: underline;
+    text-underline-offset: 6px;
+     text-decoration-thickness: 2px;
+     font-weight: 400;
+}
+.passwordWrapper{
+position: relative;
+}
+.loginEyebtn{
+    position: absolute !important;
+    right: 10px;
+    color: #0fcb02 !important;
+    z-index: 1100;
+    outline: none !important;
+}
+button.loginBtn{
+    box-sizing: border-box;
+    width: 225px;
+    height: 55px;
+    border: 2px solid  #0FCB02;
+    background: linear-gradient(90deg, #0FCB02 0%, #56638B 100%);
+
+}
+.LoginOR{
+    border-top: 1px solid #131313 !important;
+}

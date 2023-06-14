@@ -1,0 +1,64 @@
+.custom-accordion {
+  border-radius: 7px;
+  background-color: #fff;
+  /* max-height: 100%px;
+  height: 100%; */
+  overflow: hidden;
+  /* transition: max-height 0.5s ease-in-out; */
+  border-bottom: 1px  solid gray;
+
+}
+/* .custom-accordionOpen {
+  max-height: 500px;
+} */
+.accordian-head {
+  color: #131313;
+  background-color: #fff;
+  transition: background-color 0.5s ease;
+}
+.accordian-head-open {
+  color: #fff;
+  background-color: #576999;
+}
+.faqs-main {
+  background-color: #edeef7;
+}
+.accordianArrow {
+  transform: rotate(180deg);
+  transition: transform 0.5s ease-in;
+}
+.accordianArrowOpen {
+  transform: rotate(0deg);
+}
+.accordian-head h4 {
+  font-size: 18px;
+  font-weight: 600;
+  font-family: poppins;
+  margin: 0 !important;
+}
+.accordian-number {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: poppins;
+  color: #576999;
+}
+.accordian-numberOpen {
+  color: #fff;
+}
+.accordian-body p {
+  font-size: 14px;
+  font-family: poppins;
+  font-weight: 400;
+}
+.accordian-body {
+  transition: max-height 0.5s ease-in;
+  padding: 0;
+  height:100%;
+  max-height: 0;
+  overflow: hidden;
+}
+.accordian-bodyOpen{
+  padding-top: 10px;
+  height:100%;
+  max-height:200px  ;
+}
