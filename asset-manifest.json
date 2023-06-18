@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fad-homepage/static/css/main.da89adf3.css",
-    "main.js": "/fad-homepage/static/js/main.46fca19c.js",
+    "main.js": "/fad-homepage/static/js/main.ea53d90e.js",
     "static/media/services-providers-image.png": "/fad-homepage/static/media/services-providers-image.def234c4f19968fb11e3.png",
     "static/media/expect-rec1.png": "/fad-homepage/static/media/expect-rec1.023d3a79fe4a58f86d26.png",
     "static/media/community-within-communicty1.png": "/fad-homepage/static/media/community-within-communicty1.a437ca9d62321f73ff64.png",
@@ -38,10 +38,10 @@
     "index.html": "/fad-homepage/index.html",
     "static/media/icon-free.svg": "/fad-homepage/static/media/icon-free.483dae845b4362a8e1f9a473d65b882a.svg",
     "main.da89adf3.css.map": "/fad-homepage/static/css/main.da89adf3.css.map",
-    "main.46fca19c.js.map": "/fad-homepage/static/js/main.46fca19c.js.map"
+    "main.ea53d90e.js.map": "/fad-homepage/static/js/main.ea53d90e.js.map"
   },
   "entrypoints": [
     "static/css/main.da89adf3.css",
-    "static/js/main.46fca19c.js"
+    "static/js/main.ea53d90e.js"
   ]
 }
